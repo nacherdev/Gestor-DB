@@ -25,7 +25,7 @@ A **Database Manager** built with **Node.js, Express, Vanilla JavaScript, HTML, 
 Clone the repository:
 
 ```bash
-git clone https://github.com/Nacherpro02/Gestor-DB.git
+git clone https://github.com/nach3rdev/Gestor-DB.git
 cd Gestor-DB
 npm install
 # (If you use nodemon for development)
